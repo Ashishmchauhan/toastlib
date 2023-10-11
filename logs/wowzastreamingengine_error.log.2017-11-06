@@ -1,0 +1,5 @@
+#Version: 1.0
+#Start-Date: 2017-11-06 17:46:47 IST
+#Software: Wowza Streaming Engine 4.7.1 build20635
+#Date: 2017-11-06
+#Fields: x-severity	x-category	x-event	date	time	c-client-id	c-ip	c-port	cs-bytes	sc-bytes	x-duration	x-sname	x-stream-id	x-spos	sc-stream-bytes	cs-stream-bytes	x-file-size	x-file-length	x-ctx	x-comment

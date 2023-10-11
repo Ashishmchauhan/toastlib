@@ -1,0 +1,53 @@
+#Version: 1.0
+#Start-Date: 2017-11-13 15:14:39 IST
+#Software: Wowza Streaming Engine 4.7.1 build20635
+#Date: 2017-11-13
+#Fields: x-severity	x-category	x-event	date	time	c-client-id	c-ip	c-port	cs-bytes	sc-bytes	x-duration	x-sname	x-stream-id	x-spos	sc-stream-bytes	cs-stream-bytes	x-file-size	x-file-length	x-ctx	x-comment
+ERROR	server	comment	2017-11-13	15:14:39	-	-	-	-	-	206.941	-	-	-	-	-	-	-	-	MediaReaderFactory.getInstance: Missing definition for rtsp
+ERROR	server	comment	2017-11-13	15:14:40	-	-	-	-	-	207.697	-	-	-	-	-	-	-	-	MediaReaderFactory.getInstance: Missing definition for rtsp
+ERROR	server	comment	2017-11-13	15:14:41	-	-	-	-	-	208.875	-	-	-	-	-	-	-	-	MediaReaderFactory.getInstance: Missing definition for rtsp
+WARN	server	comment	2017-11-13	15:58:54	-	-	-	-	-	598331.992	-	-	-	-	-	-	-	-	REST API: Server request (PUT): Not Supported by the API-405: http://localhost:8087/v3/servers/_defaultServer_/publishers/mobileapp
+WARN	server	comment	2017-11-13	15:59:13	-	-	-	-	-	598350.481	-	-	-	-	-	-	-	-	REST API: Server request (PUT): Not Supported by the API-405: http://localhost:8087/v3/servers/_defaultServer_/publishers/mobileapp
+WARN	server	comment	2017-11-13	16:02:18	-	-	-	-	-	598535.638	-	-	-	-	-	-	-	-	REST API: Server request (PUT): Not Supported by the API-405: http://localhost:8087/v3/servers/_defaultServer_/publishers/mobileapp
+WARN	server	comment	2017-11-13	16:02:59	-	-	-	-	-	598577.074	-	-	-	-	-	-	-	-	REST API: Server request (PUT): Not Supported by the API-405: http://localhost:8087/v3/servers/_defaultServer_/publishers/mobileapp
+WARN	server	comment	2017-11-13	16:03:34	-	-	-	-	-	598611.616	-	-	-	-	-	-	-	-	REST API: Server request (PUT): Not Supported by the API-405: http://localhost:8087/v3/servers/_defaultServer_/publishers/mobileapp
+WARN	server	comment	2017-11-13	16:05:54	-	-	-	-	-	598751.869	-	-	-	-	-	-	-	-	REST API: Server request (PUT): Not Supported by the API-405: http://localhost:8087/v3/servers/_defaultServer_/publishers/mobileapp
+WARN	server	comment	2017-11-13	16:06:37	-	-	-	-	-	598794.75	-	-	-	-	-	-	-	-	REST API: Server request (PUT): Not Supported by the API-405: http://localhost:8087/v3/servers/_defaultServer_/publishers/mobileapp
+WARN	server	comment	2017-11-13	16:06:55	-	-	-	-	-	598813.011	-	-	-	-	-	-	-	-	REST API: Server request (PUT): Not Supported by the API-405: http://localhost:8087/v3/servers/_defaultServer_/publishers/mobileapp
+WARN	server	comment	2017-11-13	16:07:24	-	-	-	-	-	598842.135	-	-	-	-	-	-	-	-	REST API: Server request (PUT): Not Supported by the API-405: http://localhost:8087/v3/servers/_defaultServer_/publishers/mobile1
+WARN	server	comment	2017-11-13	16:09:20	-	-	-	-	-	598957.66	-	-	-	-	-	-	-	-	REST API: Server request (PUT): Not Supported by the API-405: http://localhost:8087/v3/servers/_defaultServer_/publishers/mobileapp
+WARN	server	comment	2017-11-13	16:14:49	-	-	-	-	-	213.12	-	-	-	-	-	-	-	-	HTTPStreamerAdapterMPEGDashStreamer.onManifest: Stream not found [live/myStream/manifest.mpd]: myStream
+WARN	server	comment	2017-11-13	16:14:50	-	-	-	-	-	213.925	-	-	-	-	-	-	-	-	HTTPStreamerAdapterMPEGDashStreamer.onManifest: Stream not found [live/myStream/manifest.mpd]: myStream
+WARN	server	comment	2017-11-13	16:14:52	-	-	-	-	-	215.941	-	-	-	-	-	-	-	-	HTTPStreamerAdapterMPEGDashStreamer.onManifest: Stream not found [live/myStream/manifest.mpd]: myStream
+WARN	server	comment	2017-11-13	16:15:15	-	-	-	-	-	239.596	-	-	-	-	-	-	-	-	HTTPStreamerAdapterMPEGDashStreamer.onManifest: Stream not found [live/myStream/manifest.mpd]: myStream
+WARN	server	comment	2017-11-13	16:15:16	-	-	-	-	-	240.536	-	-	-	-	-	-	-	-	HTTPStreamerAdapterMPEGDashStreamer.onManifest: Stream not found [live/myStream/manifest.mpd]: myStream
+WARN	server	comment	2017-11-13	16:15:18	-	-	-	-	-	242.135	-	-	-	-	-	-	-	-	HTTPStreamerAdapterMPEGDashStreamer.onManifest: Stream not found [live/myStream/manifest.mpd]: myStream
+WARN	server	comment	2017-11-13	16:15:26	-	-	-	-	-	250.501	-	-	-	-	-	-	-	-	HTTPStreamerAdapterMPEGDashStreamer.onManifest: Stream not found [live/myStream/manifest.mpd]: myStream
+WARN	server	comment	2017-11-13	16:15:27	-	-	-	-	-	251.722	-	-	-	-	-	-	-	-	HTTPStreamerAdapterMPEGDashStreamer.onManifest: Stream not found [live/myStream/manifest.mpd]: myStream
+WARN	server	comment	2017-11-13	16:15:28	-	-	-	-	-	252.769	-	-	-	-	-	-	-	-	HTTPStreamerAdapterMPEGDashStreamer.onManifest: Stream not found [live/myStream/manifest.mpd]: myStream
+WARN	server	comment	2017-11-13	16:16:01	-	-	-	-	-	285.361	-	-	-	-	-	-	-	-	HTTPStreamerAdapterMPEGDashStreamer.onManifest: Stream not found [live/myStream/manifest.mpd]: myStream
+WARN	server	comment	2017-11-13	16:16:02	-	-	-	-	-	286.873	-	-	-	-	-	-	-	-	HTTPStreamerAdapterMPEGDashStreamer.onManifest: Stream not found [live/myStream/manifest.mpd]: myStream
+WARN	server	comment	2017-11-13	16:16:04	-	-	-	-	-	288.572	-	-	-	-	-	-	-	-	HTTPStreamerAdapterMPEGDashStreamer.onManifest: Stream not found [live/myStream/manifest.mpd]: myStream
+WARN	server	comment	2017-11-13	16:16:04	-	-	-	-	-	288.817	-	-	-	-	-	-	-	-	HTTPStreamerAdapterMPEGDashStreamer.onManifest: Stream not found [live/myStream/manifest.mpd]: myStream
+WARN	server	comment	2017-11-13	16:16:05	-	-	-	-	-	289.146	-	-	-	-	-	-	-	-	HTTPStreamerAdapterMPEGDashStreamer.onManifest: Stream not found [live/myStream/manifest.mpd]: myStream
+WARN	server	comment	2017-11-13	16:16:07	-	-	-	-	-	291.245	-	-	-	-	-	-	-	-	HTTPStreamerAdapterMPEGDashStreamer.onManifest: Stream not found [live/myStream/manifest.mpd]: myStream
+WARN	server	comment	2017-11-13	16:16:12	-	-	-	-	-	296.811	-	-	-	-	-	-	-	-	HTTPStreamerAdapterMPEGDashStreamer.onManifest: Stream not found [live/myStream/manifest.mpd]: myStream
+WARN	server	comment	2017-11-13	16:16:13	-	-	-	-	-	297.908	-	-	-	-	-	-	-	-	HTTPStreamerAdapterMPEGDashStreamer.onManifest: Stream not found [live/myStream/manifest.mpd]: myStream
+WARN	server	comment	2017-11-13	16:16:15	-	-	-	-	-	299.89	-	-	-	-	-	-	-	-	HTTPStreamerAdapterMPEGDashStreamer.onManifest: Stream not found [live/myStream/manifest.mpd]: myStream
+WARN	server	comment	2017-11-13	18:25:21	-	-	-	-	-	0.025	-	-	-	-	-	-	-	-	HTTPStreamerAdapterMPEGDashStreamer.onManifest: Stream not found [live/myStream/manifest.mpd]: myStream
+WARN	server	comment	2017-11-13	18:25:22	-	-	-	-	-	1.357	-	-	-	-	-	-	-	-	HTTPStreamerAdapterMPEGDashStreamer.onManifest: Stream not found [live/myStream/manifest.mpd]: myStream
+WARN	server	comment	2017-11-13	18:25:24	-	-	-	-	-	2.934	-	-	-	-	-	-	-	-	HTTPStreamerAdapterMPEGDashStreamer.onManifest: Stream not found [live/myStream/manifest.mpd]: myStream
+WARN	server	comment	2017-11-13	18:47:15	-	-	-	-	-	608432.935	-	-	-	-	-	-	-	-	REST API: Server request (PUT): Not Supported by the API-405: http://localhost:8087/v3/servers/_defaultServer_/publishers/mobileapp
+WARN	server	comment	2017-11-13	18:47:50	-	-	-	-	-	608468.225	-	-	-	-	-	-	-	-	REST API: Server request (PUT): Not Supported by the API-405: http://localhost:8087/v3/servers/_defaultServer_/publishers/mobileapp
+WARN	server	comment	2017-11-13	18:48:21	-	-	-	-	-	608499.002	-	-	-	-	-	-	-	-	REST API: Server request (PUT): Not Supported by the API-405: http://localhost:8087/v3/servers/_defaultServer_/publishers/mobileapp
+WARN	server	comment	2017-11-13	19:06:54	-	-	-	-	-	2493.25	-	-	-	-	-	-	-	-	HTTPStreamerAdapterMPEGDashStreamer.onManifest: Stream not found [live/myStream/manifest.mpd]: myStream
+WARN	server	comment	2017-11-13	19:06:55	-	-	-	-	-	2494.411	-	-	-	-	-	-	-	-	HTTPStreamerAdapterMPEGDashStreamer.onManifest: Stream not found [live/myStream/manifest.mpd]: myStream
+WARN	server	comment	2017-11-13	19:06:58	-	-	-	-	-	2497.375	-	-	-	-	-	-	-	-	HTTPStreamerAdapterMPEGDashStreamer.onManifest: Stream not found [live/myStream/manifest.mpd]: myStream
+WARN	server	comment	2017-11-13	19:27:12	-	-	-	-	-	151.746	-	-	-	-	-	-	-	-	HTTPStreamerAdapterMPEGDashStreamer.onManifest: Stream not found [live/myStream/manifest.mpd]: myStream
+WARN	server	comment	2017-11-13	19:27:12	-	-	-	-	-	152.265	-	-	-	-	-	-	-	-	HTTPStreamerAdapterMPEGDashStreamer.onManifest: Stream not found [live/myStream/manifest.mpd]: myStream
+WARN	server	comment	2017-11-13	19:27:15	-	-	-	-	-	154.67	-	-	-	-	-	-	-	-	HTTPStreamerAdapterMPEGDashStreamer.onManifest: Stream not found [live/myStream/manifest.mpd]: myStream
+#Version: 1.0
+#Start-Date: 2017-11-15 11:27:32 IST
+#Software: Wowza Streaming Engine 4.7.1 build20635
+#Date: 2017-11-15
+#Fields: x-severity	x-category	x-event	date	time	c-client-id	c-ip	c-port	cs-bytes	sc-bytes	x-duration	x-sname	x-stream-id	x-spos	sc-stream-bytes	cs-stream-bytes	x-file-size	x-file-length	x-ctx	x-comment

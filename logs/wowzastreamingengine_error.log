@@ -1,0 +1,8 @@
+#Version: 1.0
+#Start-Date: 2017-11-20 14:29:17 IST
+#Software: Wowza Streaming Engine 4.7.1 build20635
+#Date: 2017-11-20
+#Fields: x-severity	x-category	x-event	date	time	c-client-id	c-ip	c-port	cs-bytes	sc-bytes	x-duration	x-sname	x-stream-id	x-spos	sc-stream-bytes	cs-stream-bytes	x-file-size	x-file-length	x-ctx	x-comment
+WARN	server	comment	2017-11-20	14:29:17	-	-	-	-	-	442905.296	-	-	-	-	-	-	-	-	REST API: Server request (POST): Object already exists-409: http://localhost:8087/v3/servers/_defaultServer_/publishers
+WARN	server	comment	2017-11-20	14:33:15	-	-	-	-	-	443143.609	-	-	-	-	-	-	-	-	REST API: Server request (PUT): Not Supported by the API-405: http://localhost:8087/v3/servers/_defaultServer_/publishers/mobile1
+WARN	server	comment	2017-11-20	14:34:07	-	-	-	-	-	443195.612	-	-	-	-	-	-	-	-	REST API: Server request (PUT): Not Supported by the API-405: http://localhost:8087/v3/servers/_defaultServer_/publishers/source1

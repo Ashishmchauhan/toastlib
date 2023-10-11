@@ -1,0 +1,15 @@
+#Version: 1.0
+#Start-Date: 2017-11-10 13:42:44 IST
+#Software: Wowza Streaming Engine 4.7.1 build20635
+#Date: 2017-11-10
+#Fields: date	time	tz	x-event	x-category	x-severity	x-status	x-ctx	x-comment	x-vhost	x-app	x-appinst	x-duration	s-ip	s-port	s-uri	c-ip	c-proto	c-referrer	c-user-agent	c-client-id	cs-bytes	sc-bytes	x-stream-id	x-spos	cs-stream-bytes	sc-stream-bytes	x-sname	x-sname-query	x-file-name	x-file-ext	x-file-size	x-file-length	x-suri	x-suri-stem	x-suri-query	cs-uri-stem	cs-uri-query
+2017-11-10	13:42:44	IST	comment	server	INFO	200	-	MediaCasterStreamValidator.init[live/_definst_]: Started	-	-	-	330962.173	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+2017-11-10	13:42:44	IST	comment	server	INFO	200	-	ModuleCoreSecurity.onAppStart[live/_definst_]: Publish: AllowedEncoders: securityPublishValidEncoders:Wirecast/|FME/|FMLE/|Wowza GoCoder*|Lavf/|UA Teradek/|KulaByte/|HaivisionKB/|VidBlaster/|XSplit/|PESA|makitoX/|Elemental Live/	-	-	-	330962.188	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+2017-11-10	13:42:44	IST	comment	server	INFO	200	-	ModuleCoreSecurity.onAppStart[live/_definst_]: Publish: block duplicate stream names : false	-	-	-	330962.189	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+2017-11-10	13:42:44	IST	comment	server	INFO	200	-	ModuleCoreSecurity.onAppStart[live/_definst_]: Publish: RTMP Authorization: password file:C:\Program Files (x86)\Wowza Media Systems\Wowza Streaming Engine 4.7.1\conf\publish.password	-	-	-	330962.19	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+2017-11-10	13:42:44	IST	comment	server	INFO	200	-	ModuleCoreSecurity.onAppStart[live/_definst_]: Play: SecureConnection: securityPlayRequireSecureConnection:false	-	-	-	330962.19	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+2017-11-10	13:42:44	IST	comment	server	INFO	200	-	ModuleCoreSecurity.onAppStart[live/_definst_]: Play: securitySecureTokenVersion property is missing, using SecureToken Version 1, play security enabled for RTMP only	-	-	-	330962.19	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+2017-11-10	13:42:44	IST	comment	server	INFO	200	-	ModuleRTMPAuthenticate.onAppStart: SecureToken is off	-	-	-	330962.191	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+2017-11-10	13:42:44	IST	comment	server	INFO	200	-	ModuleRTMPAuthenticate.onAppStart: Authorization password file: C:\Program Files (x86)\Wowza Media Systems\Wowza Streaming Engine 4.7.1\conf\publish.password	-	-	-	330962.192	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+2017-11-10	13:42:44	IST	app-start	application	INFO	200	_definst_	live/_definst_	-	-	-	330962.197	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+2017-11-10	13:43:46	IST	app-stop	application	INFO	200	_definst_	live/_definst_	-	-	-	331023.884	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-

@@ -1,0 +1,7 @@
+#Version: 1.0
+#Start-Date: 2017-11-07 18:10:53 IST
+#Software: Wowza Streaming Engine 4.7.1 build20635
+#Date: 2017-11-07
+#Fields: x-severity	x-category	x-event	date	time	c-client-id	c-ip	c-port	cs-bytes	sc-bytes	x-duration	x-sname	x-stream-id	x-spos	sc-stream-bytes	cs-stream-bytes	x-file-size	x-file-length	x-ctx	x-comment
+WARN	server	comment	2017-11-07	18:10:53	-	-	-	-	-	87851.361	-	-	-	-	-	-	-	-	REST API: Server request (PUT): Not Supported by the API-405: http://localhost:8087/v3/servers/_defaultServer_/publishers/mobile1
+WARN	server	comment	2017-11-07	18:11:46	-	-	-	-	-	87903.907	-	-	-	-	-	-	-	-	REST API: Server request (PUT): Not Supported by the API-405: http://localhost:8087/v3/servers/_defaultServer_/publishers/mobile1

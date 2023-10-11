@@ -1,0 +1,85 @@
+#Version: 1.0
+#Start-Date: 2017-11-15 10:32:23 IST
+#Software: Wowza Streaming Engine 4.7.1 build20635
+#Date: 2017-11-15
+#Fields: date	time	tz	x-event	x-category	x-severity	x-status	x-ctx	x-comment	x-vhost	x-app	x-appinst	x-duration	s-ip	s-port	s-uri	c-ip	c-proto	c-referrer	c-user-agent	c-client-id	cs-bytes	sc-bytes	x-stream-id	x-spos	cs-stream-bytes	sc-stream-bytes	x-sname	x-sname-query	x-file-name	x-file-ext	x-file-size	x-file-length	x-suri	x-suri-stem	x-suri-query	cs-uri-stem	cs-uri-query
+2017-11-15	10:32:23	IST	comment	server	INFO	200	-	ServerShutdownHook.run[shutdown]	-	-	-	751540.521	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+2017-11-15	10:32:23	IST	comment	server	INFO	200	-	MediaCache[MediaCache]: Stop	-	-	-	751540.581	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+#Version: 1.0
+#Start-Date: 2017-11-15 11:27:32 IST
+#Software: Wowza Streaming Engine 4.7.1 build20635
+#Date: 2017-11-15
+#Fields: date	time	tz	x-event	x-category	x-severity	x-status	x-ctx	x-comment	x-vhost	x-app	x-appinst	x-duration	s-ip	s-port	s-uri	c-ip	c-proto	c-referrer	c-user-agent	c-client-id	cs-bytes	sc-bytes	x-stream-id	x-spos	cs-stream-bytes	sc-stream-bytes	x-sname	x-sname-query	x-file-name	x-file-ext	x-file-size	x-file-length	x-suri	x-suri-stem	x-suri-query	cs-uri-stem	cs-uri-query
+2017-11-15	11:27:33	IST	server-start	server	INFO	200	Wowza Streaming Engine 4 Trial Edition (Expires: Dec 08, 2017) 4.7.1 build20635	-	-	-	-	1.781	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+2017-11-15	11:27:33	IST	comment	server	INFO	200	-	Server License Key: ET1E4-XXXXX-XXXXX-XXXXX-XXXXX-AwEfk	-	-	-	1.828	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+2017-11-15	11:27:33	IST	comment	server	INFO	200	-	Maximum Connections: 10	-	-	-	1.828	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+2017-11-15	11:27:33	IST	comment	server	INFO	200	-	Maximum Incoming Streams: 3	-	-	-	1.828	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+2017-11-15	11:27:33	IST	comment	server	INFO	200	-	Transcoder Streams Available: 1	-	-	-	1.843	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+2017-11-15	11:27:33	IST	comment	server	INFO	200	-	Transcoder Watermark: Yes	-	-	-	1.843	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+2017-11-15	11:27:33	IST	comment	server	INFO	200	-	nDVR Available: Yes	-	-	-	1.843	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+2017-11-15	11:27:33	IST	comment	server	INFO	200	-	DRM Available: Yes	-	-	-	1.843	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+2017-11-15	11:27:33	IST	comment	server	INFO	200	-	HTTP Origin Available: No	-	-	-	1.843	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+2017-11-15	11:27:33	IST	comment	server	INFO	200	-	Push Publish Available: Yes	-	-	-	1.843	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+2017-11-15	11:27:33	IST	comment	server	INFO	200	-	REST API Available: Yes	-	-	-	1.843	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+2017-11-15	11:27:33	IST	comment	server	INFO	200	-	Hardware Available Processors: 4	-	-	-	1.843	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+2017-11-15	11:27:33	IST	comment	server	INFO	200	-	Hardware Physical Memory [free/total]: 6503MB/8106MB	-	-	-	1.843	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+2017-11-15	11:27:33	IST	comment	server	INFO	200	-	Hardware Swap Space [free/total]: 11195MB/12970MB	-	-	-	1.843	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+2017-11-15	11:27:33	IST	comment	server	INFO	200	-	Max File Descriptor Count: Unlimited	-	-	-	1.859	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+2017-11-15	11:27:33	IST	comment	server	INFO	200	-	OS Name: Windows 10	-	-	-	1.89	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+2017-11-15	11:27:33	IST	comment	server	INFO	200	-	OS Version: 10.0	-	-	-	1.89	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+2017-11-15	11:27:33	IST	comment	server	INFO	200	-	OS Architecture: amd64	-	-	-	1.89	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+2017-11-15	11:27:33	IST	comment	server	INFO	200	-	OS CPU: amd64	-	-	-	1.89	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+2017-11-15	11:27:33	IST	comment	server	INFO	200	-	Java Name: Java HotSpot(TM) 64-Bit Server VM	-	-	-	1.89	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+2017-11-15	11:27:33	IST	comment	server	INFO	200	-	Java Vendor: Oracle Corporation	-	-	-	1.89	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+2017-11-15	11:27:33	IST	comment	server	INFO	200	-	Java Version: 1.8.0_77	-	-	-	1.89	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+2017-11-15	11:27:33	IST	comment	server	INFO	200	-	Java VM Version: 25.77-b03	-	-	-	1.89	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+2017-11-15	11:27:33	IST	comment	server	INFO	200	-	Java Spec Version: 1.8	-	-	-	1.89	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+2017-11-15	11:27:33	IST	comment	server	INFO	200	-	Java Home: C:\Program Files (x86)\Wowza Media Systems\Wowza Streaming Engine 4.7.1\jre\jre	-	-	-	1.89	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+2017-11-15	11:27:33	IST	comment	server	INFO	200	-	Java Max Heap Size: 3242MB	-	-	-	1.89	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+2017-11-15	11:27:33	IST	comment	server	INFO	200	-	Java Architecture: 64	-	-	-	1.89	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+2017-11-15	11:27:33	IST	comment	server	INFO	200	-	Java Locale[user.language]: en	-	-	-	1.89	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+2017-11-15	11:27:33	IST	comment	server	INFO	200	-	Java Locale[user.country]: IN	-	-	-	1.89	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+2017-11-15	11:27:33	IST	comment	server	INFO	200	-	Java Locale[user.variant]: 	-	-	-	1.89	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+2017-11-15	11:27:33	IST	comment	server	INFO	200	-	Java Locale[file.encoding]: Cp1252	-	-	-	1.89	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+2017-11-15	11:27:33	IST	comment	server	INFO	200	-	Java Timezone[user.timezone]: Asia/Calcutta	-	-	-	1.89	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+2017-11-15	11:27:33	IST	comment	server	INFO	200	-	Java Args[0]: -Xmx3242M	-	-	-	1.89	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+2017-11-15	11:27:33	IST	comment	server	INFO	200	-	Java Args[1]: -XX:+UseG1GC	-	-	-	1.89	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+2017-11-15	11:27:33	IST	comment	server	INFO	200	-	Java Args[2]: -XX:MaxGCPauseMillis=100	-	-	-	1.89	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+2017-11-15	11:27:33	IST	comment	server	INFO	200	-	Java Args[3]: -Djava.net.preferIPv4Stack=true	-	-	-	1.89	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+2017-11-15	11:27:33	IST	comment	server	INFO	200	-	Java Args[4]: -Dcom.sun.management.jmxremote=true	-	-	-	1.89	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+2017-11-15	11:27:33	IST	comment	server	INFO	200	-	Java Args[5]: -Dcom.wowza.wms.runmode=service	-	-	-	1.89	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+2017-11-15	11:27:33	IST	comment	server	INFO	200	-	Java Args[6]: -Dcom.wowza.wms.native.base=win	-	-	-	1.89	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+2017-11-15	11:27:33	IST	comment	server	INFO	200	-	Java Args[7]: -Dcom.wowza.wms.ConfigURL=	-	-	-	1.89	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+2017-11-15	11:27:33	IST	comment	server	INFO	200	-	Server runmode: service	-	-	-	1.89	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+2017-11-15	11:27:33	IST	comment	server	INFO	200	-	Server native.platform: win	-	-	-	1.89	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+2017-11-15	11:27:33	IST	comment	server	INFO	200	-	Server threads[h/t]: 240/160	-	-	-	1.89	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+2017-11-15	11:27:40	IST	comment	server	INFO	200	-	RESTServer: Bind attempt ([any]:8087)	-	-	-	8.275	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+2017-11-15	11:27:40	IST	comment	server	INFO	200	-	RESTServer: Bind successful ([any]:8087)	-	-	-	8.978	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+2017-11-15	11:27:40	IST	comment	server	INFO	200	-	Wowza REST API started	-	-	-	8.978	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+2017-11-15	11:27:40	IST	comment	server	INFO	200	-	RESTServer: Using configs from:C:/Program Files (x86)/Wowza Media Systems/Wowza Streaming Engine 4.7.1/	-	-	-	8.978	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+2017-11-15	11:27:40	IST	comment	server	INFO	200	-	RESTServer: SSL:No	-	-	-	8.978	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+2017-11-15	11:27:40	IST	comment	server	INFO	200	-	RESTServer: BasicAuth:No	-	-	-	8.978	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+2017-11-15	11:27:40	IST	comment	server	INFO	200	-	RESTServer: Digest:Yes	-	-	-	8.978	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+2017-11-15	11:27:40	IST	comment	server	INFO	200	-	RESTServer: DigestFile:No	-	-	-	8.978	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+2017-11-15	11:27:40	IST	comment	server	INFO	200	-	RESTServer: RemoteHTTPDigest:No	-	-	-	8.978	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+2017-11-15	11:27:40	IST	comment	server	INFO	200	-	RESTServer: XML Viewer:No	-	-	-	8.978	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+2017-11-15	11:27:41	IST	comment	server	INFO	200	-	REST Documentation Server has been disabled.	-	-	-	9.571	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+2017-11-15	11:27:41	IST	comment	server	INFO	200	-	CMDInterface now listening: [any]:8083	-	-	-	9.634	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+2017-11-15	11:27:41	IST	comment	server	INFO	200	-	MediaCache[MediaCache]: Thread pool size: [writer/readahead]:8/4	-	-	-	9.821	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+2017-11-15	11:27:41	IST	comment	server	INFO	200	-	MediaCache[MediaCache]: MAX Pending size: [writer/readahead]:160M/80M	-	-	-	9.821	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+2017-11-15	11:27:41	IST	comment	server	INFO	200	-	MediaCache[MediaCache]: Add store: path:C:/Program Files (x86)/Wowza Media Systems/Wowza Streaming Engine 4.7.1/mediacache maxSize:10737418240	-	-	-	9.821	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+2017-11-15	11:27:42	IST	comment	server	INFO	200	-	MediaCache[MediaCache]: Add source[dvrorigin]: prefix:dvrorigin/ basePath:http://	-	-	-	10.338	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+2017-11-15	11:27:42	IST	comment	server	INFO	200	-	MediaCache[MediaCache]: Flushing cache: start	-	-	-	10.338	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+2017-11-15	11:27:42	IST	comment	server	INFO	200	-	MediaCache[MediaCache]: Flushing cache: done	-	-	-	10.541	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+2017-11-15	11:27:42	IST	comment	server	INFO	200	-	MediaCache[MediaCache]: Start MediaCache GC	-	-	-	10.541	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+2017-11-15	11:27:42	IST	comment	server	INFO	200	-	MediaCache[MediaCache]: Started	-	-	-	10.541	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+2017-11-15	11:27:42	IST	comment	server	INFO	200	-	REST API: ready	-	-	-	10.867	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+2017-11-15	11:27:43	IST	vhost-start	vhost	INFO	200	_defaultVHost_	-	-	-	-	11.481	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+2017-11-15	11:27:43	IST	comment	server	INFO	200	-	_defaultVHost_ threads[h/t]:0/0 home:C:/Program Files (x86)/Wowza Media Systems/Wowza Streaming Engine 4.7.1	-	-	-	11.54	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+2017-11-15	11:27:43	IST	comment	vhost	INFO	200	_defaultVHost_	Bind attempt ([any]:1935:8)	-	-	-	11.545	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+2017-11-15	11:27:43	IST	comment	vhost	INFO	200	_defaultVHost_	Bind successful ([any]:1935)	-	-	-	11.551	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+2017-11-15	11:27:43	IST	comment	vhost	INFO	200	_defaultVHost_	Bind attempt ([any]:8086:4)	-	-	-	11.63	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+2017-11-15	11:27:43	IST	comment	vhost	INFO	200	_defaultVHost_	Bind successful ([any]:8086)	-	-	-	11.632	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+2017-11-15	11:27:43	IST	comment	server	INFO	200	-	Server.startShutdownHook: Start server shutdown hook	-	-	-	11.635	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+2017-11-15	11:27:43	IST	comment	server	INFO	200	-	StatsManager:startManager() Enabled=true	-	-	-	11.841	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+2017-11-15	11:27:43	IST	comment	server	INFO	200	-	Wowza Streaming Engine is started!	-	-	-	11.87	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
